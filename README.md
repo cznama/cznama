@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cznama
+- 👋 Hi, I’m @Czerina
 - 👀 I’m interested in Data Analytics, AI, ML and Process Automation
 - 🌱 I’m currently learning SQL, Python and R
 
